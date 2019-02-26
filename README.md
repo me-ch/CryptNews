@@ -7,7 +7,7 @@ legitimate by publishing supporting documents and being validated
 using ethereum consensus and machine learning libraries in Python. 
 
 
-#Features to be implemented (aka functional requirements)
+# Features to be implemented (aka functional requirements)
 -Any user can see the website and its content
 -Account creation
 -Voting feature for registered users to voice their opinions on articles
